@@ -1,15 +1,4 @@
 #!/usr/bin/env python3
-"""
-mcuserhunter — multi-platform username availability checker & claimer.
-Platforms: Minecraft, Discord, Twitter/X
-
-Install:
-    pip install requests
-
-Run:
-    python mcuserhunter.py
-"""
-
 import itertools
 import os
 import sys
